@@ -19,7 +19,7 @@
 
     // Initializing the titles slider
     var titles = [
-        'King of the Ring Fight',
+        'Modern Warship',
         'Sound of Streets',
         'Urban Fashion',
         'Windy Sunset'
